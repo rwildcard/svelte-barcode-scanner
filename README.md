@@ -1,8 +1,3 @@
-# sapper-template
-
-The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
-
-
 ## Getting started
 
 
@@ -11,7 +6,7 @@ The default template for setting up a [Sapper](https://github.com/sveltejs/sappe
 To create a new Sapper project based on Rollup locally, run
 
 ```bash
-npx degit "sveltejs/sapper-template#rollup" my-app
+npx degit "rwildcard/svelte-barcode-scanner" my-app
 ```
 
 For a webpack-based project, instead run
