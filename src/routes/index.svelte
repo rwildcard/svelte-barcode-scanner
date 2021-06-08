@@ -57,9 +57,9 @@
 			{/if}
 			</Row>
 			<Row>
-			<h4>
-				This barcode scanner should be able to read from a devices camera and scan the barcodes that are focused on.
-			</h4>
+				<h4>
+					This barcode scanner should be able to read from a devices camera and scan the barcodes that are focused on.
+				</h4>
 			</Row>
 	
 		
